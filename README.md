@@ -49,7 +49,7 @@ The scenario centers on an e-commerce platform handling customer and payment dat
 
 These are source-provided estimates. The original material does not fully document how the starting dollar exposure values were derived.
 
-## Recruiter Takeaway
+## Key Takeaway
 This project is intended to show that I can do more than populate a risk register: I can connect cyber risk to business value, select and categorize controls, identify residual exposure, recognize weak methodology, and communicate what management needs to decide.
 
 ## Disclaimer
