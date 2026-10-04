@@ -1,8 +1,8 @@
 # Attribution
 
 The original JEDEM risk-assessment artifacts were developed collaboratively by:
+- Daniel Lodi - Team Leader
 - Jesse Feldberg
-- Daniel Lodi
 - Owen Chokoza
 - Erasmus Tsuro
 - Micheal Brian Mhlanga
