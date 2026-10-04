@@ -28,7 +28,6 @@ The scenario centers on an e-commerce platform handling customer and payment dat
 | R-04 | Insider threat | Low | High | Low | Low |
 | R-05 | Denial of service | Medium | Medium | High | Medium |
 
-> I preserved the original qualitative ratings rather than silently recalculating them, because the source did not define a formal risk matrix. The limitations are documented in `docs/09-assumptions-and-limitations.md`.
 
 ## Workflow
 ![Risk assessment workflow](diagrams/risk-assessment-workflow.png)
@@ -47,7 +46,6 @@ The scenario centers on an e-commerce platform handling customer and payment dat
 | Application Exploits | $280,000 | $70,000 | $210,000 | $40,000 | 425% |
 | Misuse / Non-Compliance | $20,000 | $10,000 | $10,000 | $15,000 | -33% |
 
-These are source-provided estimates. The original material does not fully document how the starting dollar exposure values were derived.
 
 ## Key Takeaway
 This project is intended to show that I can do more than populate a risk register: I can connect cyber risk to business value, select and categorize controls, identify residual exposure, recognize weak methodology, and communicate what management needs to decide.
